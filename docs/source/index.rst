@@ -9,14 +9,33 @@ Our Goal
 
 **Recognize**: the good work 
 
+Venue
+--------
+TBD
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Agenda
+--------
+08:00 – 08:45AM	Check-in & Breakfast Reception 	Group signiture + connect with Denver and/or IDC  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+08:45 – 09:00AM	Welcome	
+
+09:00 – 09:30AM 	Keynote Address (External Presenter)	
+
+Technical Talks Session I	
+
+09:30 - 10:00AM	Talk I	
+
+10:00 – 10:10AM 	Break	
+
+10:10 – 10:40AM	Talk II	
+
+10:40 – 11:10AM	Talk III	
+
+11:10 – 11:20AM	Break	
+
+11:20 – 11:50AM	Talk IV	
+
+11:50 – 12:50PM	Lunch Break	
 
 .. note::
 

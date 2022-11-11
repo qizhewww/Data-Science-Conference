@@ -40,18 +40,10 @@ Technical Talks Session I
 
 11:50 – 12:50PM	Lunch Break	
 
-.. How to handle your schedule for the day::
-
-Our goal is to have you completely of the client work for the day so that we cam maximize our engagement. In case there is client call that you cannot get out, we will try to have some space for you to have that call.  
-
-.. note::
-
-   This project is under active development.
-
-Contents
+Team Building Events
 --------
+We are still working on this
 
-.. toctree::
-
-   usage
-   api
+How to handle your schedule for the day 
+--------
+Our goal is to have you completely of the client work for the day so that we cam maximize our engagement. In case there is client call that you cannot get out, we will try to have some space for you to have that call.  

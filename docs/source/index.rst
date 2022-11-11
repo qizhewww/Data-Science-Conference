@@ -9,6 +9,9 @@ Our Goal
 
 **Recognize**: the good work 
 
+Difference from a Knowledge Share session
+--------
+
 Venue
 --------
 TBD
@@ -36,6 +39,10 @@ Technical Talks Session I
 11:20 – 11:50AM	Talk IV	
 
 11:50 – 12:50PM	Lunch Break	
+
+.. How to handle your schedule for the day::
+
+Our goal is to have you completely of the client work for the day so that we cam maximize our engagement. In case there is client call that you cannot get out, we will try to have some space for you to have that call.  
 
 .. note::
 

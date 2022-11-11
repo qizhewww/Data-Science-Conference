@@ -24,11 +24,11 @@ Agenda
 
 09:00 – 09:30AM 	Keynote Address (External Presenter)	
 
-Technical Talks Session I	
+**Technical Talks Session I**
 
 09:30 - 10:00AM	Talk I	
 
-10:00 – 10:10AM 	Break	
+10:00 – 10:10AM Break	
 
 10:10 – 10:40AM	Talk II	
 
@@ -39,6 +39,36 @@ Technical Talks Session I
 11:20 – 11:50AM	Talk IV	
 
 11:50 – 12:50PM	Lunch Break	
+
+12:50 – 13:35PM	Fun & Team Bonding Session	Bottle Flip + Trivia + (prank)
+
+**Technical Talks Session II	Round Table & Networking & Mentorship & Posters**
+  
+13:35 – 14:05PM Talk I	
+
+14:05 – 14:35PM	Talk II	OR
+
+14:35 – 15:45PM	Break	Dance Challenge
+
+15:45 – 16:15PM	Talk III	
+
+16:15 – 16:20PM	Break	
+
+**Lightning Talk Session**
+
+16:20 – 16:30PM	Talk I	
+
+16:30 – 16:40PM	Talk II	
+
+16:40 – 16:50PM	Talk III	
+
+16:50 – 17:00PM	Talk IV	
+
+17:00 – 17:10 PM	Talk IIV	
+
+17:10 – 17:45PM	Closing Address	Group dance + Group selfie
+
+17:45 – 18:30PM	Happy Hour	
 
 Team Building Events
 --------

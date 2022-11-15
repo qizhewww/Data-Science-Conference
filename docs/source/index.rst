@@ -20,7 +20,7 @@ Agenda
 --------
 
 +------------------------+----------------------------------------------------+
-|08:00 – 08:45AM         | Check-in & Breakfast Reception                     |
+| 08:00 – 08:45AM        | Check-in & Breakfast Reception                     |
 |                        | Group signiture + connect with Denver and/or IDC   |
 +------------------------+----------------------------------------------------+
 | 08:45 – 09:00AM        | Welcome                                            |

@@ -12,6 +12,17 @@ Our Goal
 Difference from a Knowledge Share session
 --------
 
+Timeline
+--------
+Call for proposal - submit before 12/02
+
+Attendance
+--------
+- we will invite MD and remote people 
+- cordinate with denver and IDC office for team building, more details will reveal
+- each attendee could be presenter or audience
+- flights will be provided for remote people, more details will reveal
+
 Venue
 --------
 TBD
@@ -27,8 +38,8 @@ Agenda
 +------------------------+----------------------------------------------------+
 | 09:00 – 09:30AM        | Keynote Address (External Presenter)	              |
 +------------------------+----------------------------------------------------+
-|                       Technical Talks Session I                             |
-+========================+====================================================+
+|**Technical Talks Session I**                                                |
++------------------------+----------------------------------------------------+
 | 09:30 - 10:00AM        | Talk I                                             |
 +------------------------+----------------------------------------------------+
 | 10:00 – 10:10AM        | Break                                              |
@@ -43,10 +54,10 @@ Agenda
 +------------------------+----------------------------------------------------+
 | 11:50 – 12:50AM        | Lunch Break                                        |
 +------------------------+----------------------------------------------------+
-| 12:50 – 13:35PM        | Fun & Team Bonding Session	                        |
+| 12:50 – 13:35PM        | Fun & Team Bonding Session                         |
 +------------------------+----------------------------------------------------+
-| Technical Talks Session II Round Table & Networking & Mentorship & Posters  |
-+========================+====================================================+
+|**Technical Talks Session II Round Table & Networking & Mentorship & Poster**|
++------------------------+----------------------------------------------------+
 | 13:35 – 14:05PM        | Talk I                                             |
 +------------------------+----------------------------------------------------+
 | 14:05 – 14:35PM        | Talk II                                            |
@@ -57,8 +68,8 @@ Agenda
 +------------------------+----------------------------------------------------+
 | 16:15 – 16:20PM        | Break                                              |
 +------------------------+----------------------------------------------------+
-|                         Lightning Talk Session                              |
-+========================+====================================================+
+|                       **Lightning Talk Session**                            |
++------------------------+----------------------------------------------------+
 | 16:20 – 16:30PM        | Talk I                                             |
 +------------------------+----------------------------------------------------+
 | 16:30 – 16:40PM        | Talk II                                            |
@@ -67,12 +78,12 @@ Agenda
 +------------------------+----------------------------------------------------+
 | 16:50 – 17:00PM        | Talk IV                                            |
 +------------------------+----------------------------------------------------+
-| 17:00 – 17:10PM        | Talk IIV                                           |
+| 17:00 – 17:10PM        | Talk V                                             |
 +------------------------+----------------------------------------------------+
 | 17:10 – 17:45PM        | Closing Address                                    |
 +------------------------+----------------------------------------------------+
 | 17:45 – 18:30PM        | Happy Hour                                         |
-+------------------------+----------------------------------------------------+	
++------------------------+----------------------------------------------------+	      
 
 Team Building Events
 --------
@@ -81,3 +92,8 @@ We are still working on this
 How to handle your schedule for the day 
 --------
 Our goal is to have you completely of the client work for the day so that we cam maximize our engagement. In case there is client call that you cannot get out, we will try to have some space for you to have that call.  
+
+Contact Information
+--------
+confcommittee@blend360.com
+Please email us with any questions!

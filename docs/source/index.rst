@@ -1,4 +1,4 @@
-Welcome to Data Science Conference Page!
+Welcome to the Data Science Conference Page!
 ===================================
 
 Our Goal

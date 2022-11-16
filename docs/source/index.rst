@@ -9,7 +9,7 @@ Our Goal
 
 **Recognize**: the good work 
 
-Difference from a Knowledge Share session
+Different from a Knowledge Share session
 --------
 
 Timeline

@@ -5,7 +5,7 @@ Our Goal
 --------
 **Engage**: within the team, finish the year strong  
 
-**Inspire**: Share the best of our work 
+**Inspire**: share the best of our work 
 
 **Recognize**: the good work 
 
@@ -21,9 +21,9 @@ https://forms.office.com/r/h5GgLf7KYe
 Attendance
 --------
 - we will invite MD and remote people 
-- cordinate with denver and IDC office for team building, more details will reveal
-- each attendee could be presenter or audience
-- flights will be provided for remote people, more details will reveal
+- coordinate with Denver and IDC office for team building, more details will reveal
+- each attendee could be a presenter or audience
+- flights will be provided for remote people, and more details will reveal
 
 Venue
 --------
@@ -93,7 +93,7 @@ We are still working on this
 
 How to handle your schedule for the day 
 --------
-Our goal is to have you completely of the client work for the day so that we cam maximize our engagement. In case there is client call that you cannot get out, we will try to have some space for you to have that call.  
+Our goal is to have you completely off the client work for the day so that we can maximize our engagement. In case there is a client call that you cannot get out, we will try to have some space for you to have that call.  
 
 Contact Information
 --------

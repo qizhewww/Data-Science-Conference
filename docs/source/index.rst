@@ -16,6 +16,8 @@ Timeline
 --------
 Call for proposal - submit before 12/02
 
+https://forms.office.com/r/h5GgLf7KYe
+
 Attendance
 --------
 - we will invite MD and remote people 

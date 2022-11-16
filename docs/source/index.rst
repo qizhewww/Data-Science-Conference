@@ -5,7 +5,7 @@ Our Goal
 --------
 **Engage**: within the team, finish the year strong  
 
-**Inspire**: Share best of our work 
+**Inspire**: Share the best of our work 
 
 **Recognize**: the good work 
 
@@ -98,4 +98,5 @@ Our goal is to have you completely of the client work for the day so that we cam
 Contact Information
 --------
 confcommittee@blend360.com
+
 Please email us with any questions!

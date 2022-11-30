@@ -1,29 +1,29 @@
 Welcome to the Data Science Conference Page!
 ===================================
 
-Our Goal
+Introduction
 --------
-**Engage**: within the team, finish the year strong  
+At the beginning of the year 2023, the Conference Committee aims to host our 1st Data Science Conference. We aim to celebrate the work that we have done in 2022, and get inspired for any new projects and opportunities in 2023. Our mission is to:   
+
+**Engage**: within the team, open the year strong  
 
 **Inspire**: share the best of our work 
 
 **Recognize**: the good work 
 
-Different from a Knowledge Share session
---------
-
 Timeline
 --------
-Call for proposal - submit before 12/02
+- Dec 5th – Proposal submission open https://forms.office.com/r/h5GgLf7KYe 
 
-https://forms.office.com/r/h5GgLf7KYe
+- Dec 23rd – Proposal submission close 
 
-Attendance
---------
-- we will invite MD and remote people 
-- coordinate with Denver and IDC office for team building, more details will reveal
-- each attendee could be a presenter or audience
-- flights will be provided for remote people, and more details will reveal
+- Venue locked 
+
+- Agenda locked 
+
+- Jan 20th – Dry run 
+
+- Feb 7th – Event Day 
 
 Venue
 --------
@@ -34,7 +34,6 @@ Agenda
 
 +------------------------+----------------------------------------------------+
 | 08:00 – 08:45AM        | Check-in & Breakfast Reception                     |
-|                        | Group signiture + connect with Denver and/or IDC   |
 +------------------------+----------------------------------------------------+
 | 08:45 – 09:00AM        | Welcome                                            |
 +------------------------+----------------------------------------------------+
@@ -56,9 +55,9 @@ Agenda
 +------------------------+----------------------------------------------------+
 | 11:50 – 12:50AM        | Lunch Break                                        |
 +------------------------+----------------------------------------------------+
-| 12:50 – 13:35PM        | Fun & Team Bonding Session                         |
+| 12:50 – 13:35PM        | Fun & Team Events                                  |
 +------------------------+----------------------------------------------------+
-|**Technical Talks Session II Round Table & Networking & Mentorship & Poster**|
+|**Technical Talks Session II**                                               |
 +------------------------+----------------------------------------------------+
 | 13:35 – 14:05PM        | Talk I                                             |
 +------------------------+----------------------------------------------------+
@@ -87,16 +86,20 @@ Agenda
 | 17:45 – 18:30PM        | Happy Hour                                         |
 +------------------------+----------------------------------------------------+	      
 
-Team Building Events
+Q&A
 --------
-We are still working on this
+- **Who will be invited to the conference?**
+ 
+  MD onsite and remote people. Flights will be provided for remote people; more detail will be revealed.  
+  
+- **Are there any team-building activities?**
 
-How to handle your schedule for the day 
---------
-Our goal is to have you completely off the client work for the day so that we can maximize our engagement. In case there is a client call that you cannot get out, we will try to have some space for you to have that call.  
+  Yes, there will be fun & team building activities during the event. We might also connect with Denver/IDC offices. More details will be revealed. 
+  
+- **How is the conference different from a knowledge share session?**
+  
+  DS conference is more than sharing knowledge, but also sharing the best of our work and recognizing the good work. 
+  
+- **Have more questions?**
 
-Contact Information
---------
-confcommittee@blend360.com
-
-Please email us with any questions!
+  Feel free to email us with any questions - confcommittee@blend360.com 

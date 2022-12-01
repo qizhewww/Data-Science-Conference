@@ -90,11 +90,7 @@ Q&A
 --------
 - **Who will be attending the conference?**
  
-  MD onsite and remote people. Flights will be provided for remote people; more detail will be revealed.  
-  
-- **Are there any team-building activities?**
-
-  Yes, there will be fun & team building activities during the event. We might also connect with Denver/IDC offices. More details will be revealed. 
+  All DS team will be attended either remotely or in person.   
   
 - **How is the conference different from a knowledge share session?**
   

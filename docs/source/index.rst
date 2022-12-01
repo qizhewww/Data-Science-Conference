@@ -32,7 +32,7 @@ Maryland Innovation Center, 1st Floor
 
 **Address**: 6751 Columbia Gateway Dr, Columbia, MD 21046 
 
-https://www.mdinnovationcenter.com/  
+https://my.matterport.com/show/?m=YAf45c282yv
 
 Agenda
 --------

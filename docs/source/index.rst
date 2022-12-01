@@ -3,7 +3,8 @@ Welcome to the Data Science Conference Page!
 
 Introduction
 --------
-At the beginning of the year 2023, the Conference Committee aims to host our 1st Data Science Conference. We aim to celebrate the work that we have done in 2022, and get inspired for any new projects and opportunities in 2023. Our mission is to:   
+The Conference Committee is delighted to announce that we aim to host our 1st Blend360 Data Science Conference at the beginning of 2023. This is an excellent platform where we will connect, celebrate all the best work we have done in 2022, and be inspired by the intensive discussions and exchange of innovative ideas. The scope of the conference includes discussions covering all sorts of DS areas and their applications in various industries and domains. 
+Through this conference, we encourage you to:   
 
 - **Engage**: within the team, open the year strong  
 

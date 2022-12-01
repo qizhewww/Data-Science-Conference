@@ -14,17 +14,9 @@ Through this conference, we encourage you to:
 
 Timeline
 --------
-- Dec 5th – Proposal submission open https://forms.office.com/r/h5GgLf7KYe 
+Submitt your proposal here - https://forms.office.com/r/h5GgLf7KYe 
 
-- Dec 23rd – Proposal submission close 
-
-- Jan 6th - Announce the presenters
-
-- Jan 20th – Dry run (for presenters)
-
-- Feb 1st - Deck submission (for presenters)
-
-- Feb 7th – Event Day 
+.. image:: images/Picture1.png
 
 Venue
 --------

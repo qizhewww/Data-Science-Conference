@@ -77,6 +77,18 @@ Q&A
  
   All DS team will be attended either remotely or in person.   
   
+- **Who could submit their proposal?**
+  
+  Anyone who has great content to share with the whole team should consider submitting your proposal.  
+  
+- **What kind of topics could you present at the conference?**
+
+  The presentation could either be from your Center of Excellent (CoE) works, client use cases, or anything DS-related.   
+  
+- **What is lighting talk?**
+
+  A lightning talk is a short presentation lasting only 10 minutes. The goal of lightning talks is to articulate a topic in a quick, insightful, and clear manner. For more description, please see here: https://en.wikipedia.org/wiki/Lightning_talk 
+
 - **How is the conference different from a knowledge share session?**
   
   DS conference is more than sharing knowledge! For presenters, they are challenged to provide public speeches.  For attendees, you are invited to take one day off from work and join us to recognize and celebrate the best of our work and to get inspired by invited to take one day off from work and join us to recognize and celebrate the best of our work, and to get inspired by m your peers and the external speaker. Of course, there are tons of socializing opportunities and fun events for team bonding!  

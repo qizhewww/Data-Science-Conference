@@ -5,11 +5,11 @@ Introduction
 --------
 At the beginning of the year 2023, the Conference Committee aims to host our 1st Data Science Conference. We aim to celebrate the work that we have done in 2022, and get inspired for any new projects and opportunities in 2023. Our mission is to:   
 
-**Engage**: within the team, open the year strong  
+- **Engage**: within the team, open the year strong  
 
-**Inspire**: share the best of our work 
+- **Inspire**: share the best of our work 
 
-**Recognize**: the good work 
+- **Recognize**: the good work 
 
 Timeline
 --------
@@ -17,17 +17,23 @@ Timeline
 
 - Dec 23rd – Proposal submission close 
 
-- Venue locked 
+- Jan 6th - Announce the presenters
 
-- Agenda locked 
+- Jan 20th – Dry run (for presenters)
 
-- Jan 20th – Dry run 
+- Feb 1st - Deck submission (for presenters)
 
 - Feb 7th – Event Day 
 
 Venue
 --------
-TBD
+Maryland Innovation Center, 1st Floor 
+
+**Address**: 6751 Columbia Gateway Dr, Columbia, MD 21046 
+
+Date and Time: February 7, 2023, at 8:00 am 
+
+https://www.mdinnovationcenter.com/  
 
 Agenda
 --------
@@ -39,7 +45,7 @@ Agenda
 +------------------------+----------------------------------------------------+
 | 09:00 – 09:30AM        | Keynote Address (External Presenter)	              |
 +------------------------+----------------------------------------------------+
-|**Technical Talks Session I**                                                |
+|**Technical Talks Session**                                                |
 +------------------------+----------------------------------------------------+
 | 09:30 - 10:00AM        | Talk I                                             |
 +------------------------+----------------------------------------------------+
@@ -55,13 +61,9 @@ Agenda
 +------------------------+----------------------------------------------------+
 | 11:50 – 12:50AM        | Lunch Break                                        |
 +------------------------+----------------------------------------------------+
-| 12:50 – 13:35PM        | Fun & Team Events                                  |
+| 12:50 – 14:05PM        | Fun & Team Events                                  |
 +------------------------+----------------------------------------------------+
-|**Technical Talks Session II**                                               |
-+------------------------+----------------------------------------------------+
-| 13:35 – 14:05PM        | Talk I                                             |
-+------------------------+----------------------------------------------------+
-| 14:05 – 14:35PM        | Talk II                                            |
+| 14:05 – 14:10PM        | Break                                              |
 +------------------------+----------------------------------------------------+
 | 14:35 – 15:45PM        | Break                                              |
 +------------------------+----------------------------------------------------+
@@ -88,7 +90,7 @@ Agenda
 
 Q&A
 --------
-- **Who will be invited to the conference?**
+- **Who will be attending the conference?**
  
   MD onsite and remote people. Flights will be provided for remote people; more detail will be revealed.  
   
@@ -98,7 +100,7 @@ Q&A
   
 - **How is the conference different from a knowledge share session?**
   
-  DS conference is more than sharing knowledge, but also sharing the best of our work and recognizing the good work. 
+  DS conference is more than sharing knowledge! For presenters, they are challenged to provide public speeches.  For attendees, you are invited to take one day off from work and join us to recognize and celebrate the best of our work and to get inspired by invited to take one day off from work and join us to recognize and celebrate the best of our work, and to get inspired by m your peers and the external speaker. Of course, there are tons of socializing opportunities and fun events for team bonding!  
   
 - **Have more questions?**
 

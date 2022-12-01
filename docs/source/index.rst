@@ -31,8 +31,6 @@ Maryland Innovation Center, 1st Floor
 
 **Address**: 6751 Columbia Gateway Dr, Columbia, MD 21046 
 
-Date and Time: February 7, 2023, at 8:00 am 
-
 https://www.mdinnovationcenter.com/  
 
 Agenda

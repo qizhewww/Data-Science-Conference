@@ -88,7 +88,7 @@ Q&A
   
 - **What is lightning talk?**
 
-  A **lightning talk** is a short `presentation <https://en.wikipedia.org/wiki/Presentation>`_ lasting only 10 minutes. The goal of lightning talks is to articulate a topic in a quick, insightful, and clear manner. For more description, please see here: https://en.wikipedia.org/wiki/Lightning_talk 
+  A `lightning talk <https://en.wikipedia.org/wiki/Lightning_talk>`_ is a short `presentation <https://en.wikipedia.org/wiki/Presentation>`_ lasting only 10 minutes. The goal of lightning talks is to articulate a topic in a quick, insightful, and clear manner.
 
 - **How is the conference different from a knowledge share session?**
   

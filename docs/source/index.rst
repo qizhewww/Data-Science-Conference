@@ -85,7 +85,7 @@ Q&A
 
   The presentation could either be from your Center of Excellent (CoE) works, client use cases, or anything DS-related.   
   
-- **What is lighting talk?**
+- **What is lightning talk?**
 
   A lightning talk is a short presentation lasting only 10 minutes. The goal of lightning talks is to articulate a topic in a quick, insightful, and clear manner. For more description, please see here: https://en.wikipedia.org/wiki/Lightning_talk 
 

@@ -14,17 +14,18 @@ Through this conference, we encourage you to:
 
 Timeline
 --------
-Submitt your proposal here - https://forms.office.com/r/h5GgLf7KYe 
-
-.. image:: images/Picture1.png
+* 12/05 - `Proposal Submission Open <https://forms.office.com/r/h5GgLf7KYe>`_
+* 12/23 - Proposal Submission Close
+* 01/06 - Announce the Presenters
+* 01/20 - Dry Run (for presenters)
+* 02/01 - Submit Slides
+* 02/07 - Event Day
 
 Venue
 --------
-Maryland Innovation Center, 1st Floor 
+`Maryland Innovation Center, 1st Floor <https://my.matterport.com/show/?m=YAf45c282yv>`_
 
 **Address**: 6751 Columbia Gateway Dr, Columbia, MD 21046 
-
-https://my.matterport.com/show/?m=YAf45c282yv
 
 Agenda
 --------
@@ -87,11 +88,11 @@ Q&A
   
 - **What is lightning talk?**
 
-  A lightning talk is a short presentation lasting only 10 minutes. The goal of lightning talks is to articulate a topic in a quick, insightful, and clear manner. For more description, please see here: https://en.wikipedia.org/wiki/Lightning_talk 
+  A **lightning talk** is a short `presentation <https://en.wikipedia.org/wiki/Presentation>`_ lasting only 10 minutes. The goal of lightning talks is to articulate a topic in a quick, insightful, and clear manner. For more description, please see here: https://en.wikipedia.org/wiki/Lightning_talk 
 
 - **How is the conference different from a knowledge share session?**
   
-  DS conference is more than sharing knowledge! For presenters, they are challenged to provide public speeches.  For attendees, you are invited to take one day off from work and join us to recognize and celebrate the best of our work and to get inspired by invited to take one day off from work and join us to recognize and celebrate the best of our work, and to get inspired by m your peers and the external speaker. Of course, there are tons of socializing opportunities and fun events for team bonding!  
+  DS conference is more than sharing knowledge! For presenters, you with your colleagues. For attendees, you are invited to take one day off from work (who does not want a day off 😉) and join us to find out what other colleagues have explored in the DS-related areas that can be invaluable and further the development of your career journey. Of course, there are tons of socializing opportunities and fun events for team bonding!  
   
 - **Have more questions?**
 

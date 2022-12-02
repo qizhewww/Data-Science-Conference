@@ -23,7 +23,7 @@ Timeline
 
 Venue
 --------
-`Maryland Innovation Center, 1st Floor <https://my.matterport.com/show/?m=YAf45c282yv>`_
+`Maryland Innovation Center, 1st Floor <https://my.matterport.com/show/?m=QGjdkWjAM6Y&play=1>`_
 
 **Address**: 6751 Columbia Gateway Dr, Columbia, MD 21046 
 
